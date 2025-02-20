@@ -2,7 +2,9 @@
 
 <h2>Modelo EER (Extended-Entity Relationship) </h2>
 
-![Diagrama_ecommerce_final](https://github.com/user-attachments/assets/3e3a52e2-4614-4f00-bb16-bf53e340b42c)
+
+![Diagrama_ecommerce_final](https://github.com/user-attachments/assets/d6a4d81e-69a7-443f-96f5-6aebbd2a1f4c)
+
 
 <p>
 Explicação Detalhada do Diagrama
